@@ -41,7 +41,8 @@ Built-in approval gates for risky operations. Review and approve or reject file 
 ### Requirements
 
 - macOS (Apple Silicon or Intel)
-- [Claude Code](https://claude.ai/claude-code) subscription
+- [Claude(Claude Code)](https://claude.com/product/claude-code) subscription
+- [ChatGPT(Codex)](https://openai.com/codex) subscription
 
 ### Download
 
