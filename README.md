@@ -82,4 +82,3 @@ Copyright 2025 Skunc, Inc.
 ## Contact
 
 - X/Twitter: [@n_asuy](https://x.com/n_asuy)
-- GitHub: [yusa-n/chronist-ai](https://github.com/yusa-n/chronist-ai)
