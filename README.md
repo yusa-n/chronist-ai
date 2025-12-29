@@ -6,7 +6,7 @@ Chronist is a desktop application that orchestrates AI agents locally from your 
 
 ## Overview
 
-Chronist solves the challenge of running autonomous AI coding assistants safely on local codebases. It provides isolation, real-time visibility, and approval controls for AI-driven development tasksensuring you maintain complete control over what changes get applied.
+Chronist solves the challenge of running autonomous AI coding assistants safely on local codebases. It provides isolation, real-time visibility, and approval controls for AI-driven development tasks - ensuring you maintain complete control over what changes get applied.
 
 Powered by your existing Claude Code subscription. No separate subscription required during beta.
 
@@ -14,11 +14,11 @@ Powered by your existing Claude Code subscription. No separate subscription requ
 
 ### Knowledge-Driven Agents
 
-Your personal ideas, notes, and research live as local files you own. This knowledge becomes the foundation that shapes how agents think, research, and createestablishing a compounding loop between what you know and what AI generates.
+Your personal ideas, notes, and research live as local files you own. This knowledge becomes the foundation that shapes how agents think, research, and create - establishing a compounding loop between what you know and what AI generates.
 
 ### Safe Sandboxed Execution
 
-Each agent runs in its own git worktree. Agents can research, write code, generate assets, and update filesbut changes don't touch your main branch until you explicitly approve them. Experiment freely with full isolation and safety.
+Each agent runs in its own git worktree. Agents can research, write code, generate assets, and update files - but changes don't touch your main branch until you explicitly approve them. Experiment freely with full isolation and safety.
 
 ### Parallel Agent Execution
 
@@ -52,18 +52,18 @@ Download the latest release for your platform:
 
 ## How It Works
 
-1. **Feed Knowledge**  Your ideas, notes, and research serve as context for AI agents
-2. **Launch Tasks**  Create tasks that spawn agents in isolated worktrees
-3. **Monitor Progress**  Watch real-time logs and streaming output as agents work
-4. **Review Changes**  Inspect commits, diffs, and generated assets in the unified editor
-5. **Approve & Merge**  Merge only the changes you approve into your main branch
+1. **Feed Knowledge** - Your ideas, notes, and research serve as context for AI agents
+2. **Launch Tasks** - Create tasks that spawn agents in isolated worktrees
+3. **Monitor Progress** - Watch real-time logs and streaming output as agents work
+4. **Review Changes** - Inspect commits, diffs, and generated assets in the unified editor
+5. **Approve & Merge** - Merge only the changes you approve into your main branch
 
 ## Use Cases
 
-- **Autonomous Coding Tasks**  Run Claude to implement features, fix bugs, or refactor code
-- **Safe AI Experimentation**  Test AI-driven code generation without risking your main codebase
-- **Code Review & Execution**  Approve AI-suggested changes before they're applied
-- **Parallel Development**  Accelerate work by delegating tasks to multiple agents simultaneously
+- **Autonomous Coding Tasks** - Run Claude to implement features, fix bugs, or refactor code
+- **Safe AI Experimentation** - Test AI-driven code generation without risking your main codebase
+- **Code Review & Execution** - Approve AI-suggested changes before they're applied
+- **Parallel Development** - Accelerate work by delegating tasks to multiple agents simultaneously
 
 ## Privacy & Security
 
@@ -71,9 +71,9 @@ Chronist is local-first. Your files and knowledge stay on your machine. Agent ex
 
 ## Links
 
-- [Website](https://chronist.ai)
-- [Privacy Policy](https://chronist.ai/privacy)
-- [Terms of Service](https://chronist.ai/terms)
+- [Website](https://chronist-ai.com)
+- [Privacy Policy](https://chronist-ai.com/privacy)
+- [Terms of Service](https://chronist-ai.com/terms)
 
 ## License
 
