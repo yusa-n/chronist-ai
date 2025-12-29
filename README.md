@@ -75,11 +75,4 @@ Chronist is local-first. Your files and knowledge stay on your machine. Agent ex
 - [Website](https://chronist-ai.com)
 - [Privacy Policy](https://chronist-ai.com/privacy)
 - [Terms of Service](https://chronist-ai.com/terms)
-
-## License
-
-Copyright 2025 Skunc, Inc.
-
-## Contact
-
-- X/Twitter: [@n_asuy](https://x.com/n_asuy)
+- [@n_asuy](https://x.com/n_asuy)
